@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958623060295",
+    "project_id": "basketorders-9a569",
+    "storage_bucket": "basketorders-9a569.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958623060295:android:36c17f31198f70f6df7c62",
+        "android_client_info": {
+          "package_name": "com.example.basketorders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnzh0_1UZBva6bfr_TlYNK2MDSEqA8Uk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
